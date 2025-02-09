@@ -14,7 +14,8 @@ builder.Services.AddDbContext<StoreContext>(opt => opt.UseSqlServer(builder.Conf
 // .UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 //AddScoped for live of http request
 // builder.Services.AddScoped
-builder.Services.AddScoped<IProducrRepository, ProductRepository>();
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped(typeof(IGenericRepository<>),typeof(GenericRepository<>));
 //before this lines is services 
 var app = builder.Build();
 //after this lines is middleware

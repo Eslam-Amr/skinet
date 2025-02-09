@@ -3,7 +3,7 @@ using Core.Entities;
 
 namespace Core.Interfaces;
 
-public interface IProducrRepository
+public interface IProductRepository
 {
     Task<IReadOnlyList<Product>> GetProductsAsync(string ? brand,string? type,string? sort);
     Task<Product?> GetProductByIdAsync(int id);
