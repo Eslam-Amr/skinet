@@ -64,4 +64,5 @@ public class BaseSpecification<T, TResult>(Expression<Func<T, bool>>? criteria) 
     {
         Select = selectExpression;
     }
+   
 }
