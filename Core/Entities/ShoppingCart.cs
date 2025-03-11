@@ -1,14 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// using System;
+// using System.Collections.Generic;
+// using System.Linq;
+// using System.Text;
+// using System.Threading.Tasks;
 
-namespace Core.Entities
+// namespace Core.Entities
+// {
+//     public class ShoppingCart
+//     {
+//         public string Id{ get; set; }
+//         public List<CartItem> Items { get; set; } = [];
+//     }
+// }
+namespace Core.Entities;
+
+public class ShoppingCart
 {
-    public class ShoppingCart
-    {
-        public string Id{ get; set; }
-        public List<CartItem> Items { get; set; } = [];
-    }
+    public required string Id { get; set; }
+    public List<CartItem> Items { get; set; } = [];
 }
