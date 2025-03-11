@@ -1,7 +1,7 @@
 [
   {
     "Name": "Angular Speedster Board 2000",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Description": "High-speed board for Angular enthusiasts. Durable and lightweight.",
     "Price": 200,
     "PictureUrl": "/images/products/sb-ang1.png",
     "Type": "Boards",
@@ -10,7 +10,7 @@
   },
   {
     "Name": "Green Angular Board 3000",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Description": "Smooth riding board with a sleek green finish.",
     "Price": 150,
     "PictureUrl": "/images/products/sb-ang2.png",
     "Type": "Boards",
@@ -19,7 +19,7 @@
   },
   {
     "Name": "Core Board Speed Rush 3",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Description": "Fast and reliable board for professionals.",
     "Price": 180,
     "PictureUrl": "/images/products/sb-core1.png",
     "Type": "Boards",
@@ -28,7 +28,7 @@
   },
   {
     "Name": "Net Core Super Board",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Description": "Advanced board with NetCore technology.",
     "Price": 300,
     "PictureUrl": "/images/products/sb-core2.png",
     "Type": "Boards",
@@ -37,7 +37,7 @@
   },
   {
     "Name": "React Board Super Whizzy Fast",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Description": "React-powered board for speed and agility.",
     "Price": 250,
     "PictureUrl": "/images/products/sb-react1.png",
     "Type": "Boards",
@@ -46,7 +46,7 @@
   },
   {
     "Name": "Typescript Entry Board",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Description": "Perfect entry-level board for beginners.",
     "Price": 120,
     "PictureUrl": "/images/products/sb-ts1.png",
     "Type": "Boards",
@@ -55,7 +55,7 @@
   },
   {
     "Name": "Core Blue Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Description": "Stylish blue hat with Core branding.",
     "Price": 10,
     "PictureUrl": "/images/products/hat-core1.png",
     "Type": "Hats",
@@ -64,7 +64,7 @@
   },
   {
     "Name": "Green React Woolen Hat",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Description": "Warm and comfortable woolen hat with React branding.",
     "Price": 8,
     "PictureUrl": "/images/products/hat-react1.png",
     "Type": "Hats",
@@ -73,7 +73,7 @@
   },
   {
     "Name": "Purple React Woolen Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Description": "Cozy and stylish woolen hat in purple.",
     "Price": 15,
     "PictureUrl": "/images/products/hat-react2.png",
     "Type": "Hats",
@@ -82,7 +82,7 @@
   },
   {
     "Name": "Blue Code Gloves",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Description": "Comfortable gloves for coding enthusiasts.",
     "Price": 18,
     "PictureUrl": "/images/products/glove-code1.png",
     "Type": "Gloves",
@@ -91,7 +91,7 @@
   },
   {
     "Name": "Green Code Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Description": "Durable gloves with a stylish green finish.",
     "Price": 15,
     "PictureUrl": "/images/products/glove-code2.png",
     "Type": "Gloves",
@@ -100,7 +100,7 @@
   },
   {
     "Name": "Purple React Gloves",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Description": "Warm gloves for coding in style.",
     "Price": 16,
     "PictureUrl": "/images/products/glove-react1.png",
     "Type": "Gloves",
@@ -109,7 +109,7 @@
   },
   {
     "Name": "Green React Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Description": "Flexible and warm gloves with React branding.",
     "Price": 14,
     "PictureUrl": "/images/products/glove-react2.png",
     "Type": "Gloves",
@@ -118,7 +118,7 @@
   },
   {
     "Name": "Redis Red Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Description": "High-performance boots with Redis technology.",
     "Price": 250,
     "PictureUrl": "/images/products/boot-redis1.png",
     "Type": "Boots",
@@ -127,38 +127,146 @@
   },
   {
     "Name": "Core Red Boots",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 189.99,
+    "Description": "Stylish and durable red boots for outdoor adventures.",
+    "Price": 189.99,       
     "PictureUrl": "/images/products/boot-core2.png",
     "Type": "Boots",
     "Brand": "NetCore",
     "QuantityInStock": 28
   },
   {
-    "Name": "Core Purple Boots",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 199.99,
-    "PictureUrl": "/images/products/boot-core1.png",
+    "Name": "Angular Speedster Board 2000",
+    "Description": "High-speed board for Angular enthusiasts. Durable and lightweight.",
+    "Price": 200,
+    "PictureUrl": "/images/products/sb-ang1.png",
+    "Type": "Boards",
+    "Brand": "Angular",
+    "QuantityInStock": 82
+  },
+  {
+    "Name": "Green Angular Board 3000",
+    "Description": "Smooth riding board with a sleek green finish.",
+    "Price": 150,
+    "PictureUrl": "/images/products/sb-ang2.png",
+    "Type": "Boards",
+    "Brand": "Angular",
+    "QuantityInStock": 75
+  },
+  {
+    "Name": "Core Board Speed Rush 3",
+    "Description": "Fast and reliable board for professionals.",
+    "Price": 180,
+    "PictureUrl": "/images/products/sb-core1.png",
+    "Type": "Boards",
+    "Brand": "NetCore",
+    "QuantityInStock": 3
+  },
+  {
+    "Name": "Net Core Super Board",
+    "Description": "Advanced board with NetCore technology.",
+    "Price": 300,
+    "PictureUrl": "/images/products/sb-core2.png",
+    "Type": "Boards",
+    "Brand": "NetCore",
+    "QuantityInStock": 52
+  },
+  {
+    "Name": "React Board Super Whizzy Fast",
+    "Description": "React-powered board for speed and agility.",
+    "Price": 250,
+    "PictureUrl": "/images/products/sb-react1.png",
+    "Type": "Boards",
+    "Brand": "React",
+    "QuantityInStock": 97
+  },
+  {
+    "Name": "Typescript Entry Board",
+    "Description": "Perfect entry-level board for beginners.",
+    "Price": 120,
+    "PictureUrl": "/images/products/sb-ts1.png",
+    "Type": "Boards",
+    "Brand": "Typescript",
+    "QuantityInStock": 37
+  },
+  {
+    "Name": "Core Blue Hat",
+    "Description": "Stylish blue hat with Core branding.",
+    "Price": 10,
+    "PictureUrl": "/images/products/hat-core1.png",
+    "Type": "Hats",
+    "Brand": "NetCore",
+    "QuantityInStock": 32
+  },
+  {
+    "Name": "Green React Woolen Hat",
+    "Description": "Warm and comfortable woolen hat with React branding.",
+    "Price": 8,
+    "PictureUrl": "/images/products/hat-react1.png",
+    "Type": "Hats",
+    "Brand": "React",
+    "QuantityInStock": 6
+  },
+  {
+    "Name": "Purple React Woolen Hat",
+    "Description": "Cozy and stylish woolen hat in purple.",
+    "Price": 15,
+    "PictureUrl": "/images/products/hat-react2.png",
+    "Type": "Hats",
+    "Brand": "React",
+    "QuantityInStock": 17
+  },
+  {
+    "Name": "Blue Code Gloves",
+    "Description": "Comfortable gloves for coding enthusiasts.",
+    "Price": 18,
+    "PictureUrl": "/images/products/glove-code1.png",
+    "Type": "Gloves",
+    "Brand": "VS Code",
+    "QuantityInStock": 74
+  },
+  {
+    "Name": "Green Code Gloves",
+    "Description": "Durable gloves with a stylish green finish.",
+    "Price": 15,
+    "PictureUrl": "/images/products/glove-code2.png",
+    "Type": "Gloves",
+    "Brand": "VS Code",
+    "QuantityInStock": 19
+  },
+  {
+    "Name": "Purple React Gloves",
+    "Description": "Warm gloves for coding in style.",
+    "Price": 16,
+    "PictureUrl": "/images/products/glove-react1.png",
+    "Type": "Gloves",
+    "Brand": "React",
+    "QuantityInStock": 77
+  },
+  {
+    "Name": "Green React Gloves",
+    "Description": "Flexible and warm gloves with React branding.",
+    "Price": 14,
+    "PictureUrl": "/images/products/glove-react2.png",
+    "Type": "Gloves",
+    "Brand": "React",
+    "QuantityInStock": 45
+  },
+  {
+    "Name": "Redis Red Boots",
+    "Description": "High-performance boots with Redis technology.",
+    "Price": 250,
+    "PictureUrl": "/images/products/boot-redis1.png",
+    "Type": "Boots",
+    "Brand": "Redis",
+    "QuantityInStock": 49
+  },
+  {
+    "Name": "Core Red Boots",
+    "Description": "Stylish and durable red boots for outdoor adventures.",
+    "Price": 189.99,
+    "PictureUrl": "/images/products/boot-core2.png",
     "Type": "Boots",
     "Brand": "NetCore",
-    "QuantityInStock": 69
-  },
-  {
-    "Name": "Angular Purple Boots",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 150,
-    "PictureUrl": "/images/products/boot-ang2.png",
-    "Type": "Boots",
-    "Brand": "Angular",
-    "QuantityInStock": 35
-  },
-  {
-    "Name": "Angular Blue Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
-    "PictureUrl": "/images/products/boot-ang1.png",
-    "Type": "Boots",
-    "Brand": "Angular",
-    "QuantityInStock": 27
+    "QuantityInStock": 28
   }
 ]
